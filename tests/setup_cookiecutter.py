@@ -21,8 +21,9 @@ print("Options: open_source_license=%s, ci_provider=%s, rtd=%s" % (lic, provider
 options = [project,  # Repo name
            project,  # Project name
            project,  # First module name
-           "cookie monster",  # Author name
-           "cookiemonster@trash.can",  # Author email
+           "mdkit",  # username
+           "MDAnalysis Cat",  # Author name
+           "kitty@mdanalysis.org",  # Author email
            "",  # Description
            lic,  # License
            provider,  # ci_provider
